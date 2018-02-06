@@ -2,9 +2,8 @@
 This repository will hold solutions to leetcode problems which I have worked on.
 
 Following are some of the useful links that you can go through to get up to speed on Algorithms:
-
-[Introduction to Algorithms - 6.006](https://courses.csail.mit.edu/6.006/fall11/notes.shtml)
-[Algorithm Design](http://ww3.algorithmdesign.net/handouts/)
+* [Introduction to Algorithms - 6.006](https://courses.csail.mit.edu/6.006/fall11/notes.shtml)
+* [Algorithm Design](http://ww3.algorithmdesign.net/handouts/)
 
 ### Concepts:
 
